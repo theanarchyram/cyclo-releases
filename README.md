@@ -1,6 +1,6 @@
 # Cyclo test builds
 
-Thanks for helping test **Cyclo**, the app that scans period care, intimate care and skincare products and rates them from Excellent to Poor.
+Thanks for helping test **Cyclo** by **LeverOne Studios**, the app that scans period care, intimate care and skincare products and rates them from Excellent to Poor.
 
 ## Install on Android
 
@@ -22,3 +22,5 @@ Spotted a bug, a score that looks wrong, or have an idea? Tap **Send feedback** 
 ---
 
 Scores are for information only and are not medical advice.
+
+© 2026 LeverOne Studios
